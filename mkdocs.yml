@@ -1,4 +1,4 @@
-site_name: Visualización de Datos Geográficos
+site_name: Visualización geoespacial
 pages:
     - Hello: index.md
     - Sesión 1: s1/sesion1.md

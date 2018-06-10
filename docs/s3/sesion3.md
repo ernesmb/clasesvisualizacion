@@ -10,6 +10,6 @@
 
 ### MapboxGL
 
-----
+---
 
 ## Hands on

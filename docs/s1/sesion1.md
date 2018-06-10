@@ -14,7 +14,9 @@
 
 ### La industria
 
-----
+### La comunidad
+
+---
 
 ## Bloque 2: CARTO Builder I
 
