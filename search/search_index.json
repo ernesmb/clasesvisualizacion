@@ -91,187 +91,187 @@
             "title": "Hands on"
         }, 
         {
-            "location": "/s1/sesion1/", 
+            "location": "/sesion1/", 
             "text": "Sesi\u00f3n 1\n\n\nBloque 1: Introducci\u00f3n\n\n\nDatos Geogr\u00e1ficos\n\n\nProyecciones Cartogr\u00e1ficas\n\n\nFuentes de Datos\n\n\nGIS\n\n\nWebmaps\n\n\nLa industria\n\n\nLa comunidad\n\n\n\n\nBloque 2: CARTO Builder I\n\n\nDashboard\n\n\nBUILDER UI", 
             "title": "Sesi\u00f3n 1"
         }, 
         {
-            "location": "/s1/sesion1/#sesion-1", 
+            "location": "/sesion1/#sesion-1", 
             "text": "", 
             "title": "Sesi\u00f3n 1"
         }, 
         {
-            "location": "/s1/sesion1/#bloque-1-introduccion", 
+            "location": "/sesion1/#bloque-1-introduccion", 
             "text": "", 
             "title": "Bloque 1: Introducci\u00f3n"
         }, 
         {
-            "location": "/s1/sesion1/#datos-geograficos", 
+            "location": "/sesion1/#datos-geograficos", 
             "text": "", 
             "title": "Datos Geogr\u00e1ficos"
         }, 
         {
-            "location": "/s1/sesion1/#proyecciones-cartograficas", 
+            "location": "/sesion1/#proyecciones-cartograficas", 
             "text": "", 
             "title": "Proyecciones Cartogr\u00e1ficas"
         }, 
         {
-            "location": "/s1/sesion1/#fuentes-de-datos", 
+            "location": "/sesion1/#fuentes-de-datos", 
             "text": "", 
             "title": "Fuentes de Datos"
         }, 
         {
-            "location": "/s1/sesion1/#gis", 
+            "location": "/sesion1/#gis", 
             "text": "", 
             "title": "GIS"
         }, 
         {
-            "location": "/s1/sesion1/#webmaps", 
+            "location": "/sesion1/#webmaps", 
             "text": "", 
             "title": "Webmaps"
         }, 
         {
-            "location": "/s1/sesion1/#la-industria", 
+            "location": "/sesion1/#la-industria", 
             "text": "", 
             "title": "La industria"
         }, 
         {
-            "location": "/s1/sesion1/#la-comunidad", 
+            "location": "/sesion1/#la-comunidad", 
             "text": "", 
             "title": "La comunidad"
         }, 
         {
-            "location": "/s1/sesion1/#bloque-2-carto-builder-i", 
+            "location": "/sesion1/#bloque-2-carto-builder-i", 
             "text": "", 
             "title": "Bloque 2: CARTO Builder I"
         }, 
         {
-            "location": "/s1/sesion1/#dashboard", 
+            "location": "/sesion1/#dashboard", 
             "text": "", 
             "title": "Dashboard"
         }, 
         {
-            "location": "/s1/sesion1/#builder-ui", 
+            "location": "/sesion1/#builder-ui", 
             "text": "", 
             "title": "BUILDER UI"
         }, 
         {
-            "location": "/s2/sesion2/", 
+            "location": "/sesion2/", 
             "text": "Sesi\u00f3n 2\n\n\nBloque 1: CARTO Builder II: Casos de Uso\n\n\nDemo 1\n\n\nDemo 2\n\n\nDemo 3\n\n\nDemo 4\n\n\n\n\nBloque 2: Bases de Datos Geogr\u00e1ficos\n\n\nPostgres + PostGIS\n\n\nQueries espaciales", 
             "title": "Sesi\u00f3n 2"
         }, 
         {
-            "location": "/s2/sesion2/#sesion-2", 
+            "location": "/sesion2/#sesion-2", 
             "text": "", 
             "title": "Sesi\u00f3n 2"
         }, 
         {
-            "location": "/s2/sesion2/#bloque-1-carto-builder-ii-casos-de-uso", 
+            "location": "/sesion2/#bloque-1-carto-builder-ii-casos-de-uso", 
             "text": "", 
             "title": "Bloque 1: CARTO Builder II: Casos de Uso"
         }, 
         {
-            "location": "/s2/sesion2/#demo-1", 
+            "location": "/sesion2/#demo-1", 
             "text": "", 
             "title": "Demo 1"
         }, 
         {
-            "location": "/s2/sesion2/#demo-2", 
+            "location": "/sesion2/#demo-2", 
             "text": "", 
             "title": "Demo 2"
         }, 
         {
-            "location": "/s2/sesion2/#demo-3", 
+            "location": "/sesion2/#demo-3", 
             "text": "", 
             "title": "Demo 3"
         }, 
         {
-            "location": "/s2/sesion2/#demo-4", 
+            "location": "/sesion2/#demo-4", 
             "text": "", 
             "title": "Demo 4"
         }, 
         {
-            "location": "/s2/sesion2/#bloque-2-bases-de-datos-geograficos", 
+            "location": "/sesion2/#bloque-2-bases-de-datos-geograficos", 
             "text": "", 
             "title": "Bloque 2: Bases de Datos Geogr\u00e1ficos"
         }, 
         {
-            "location": "/s2/sesion2/#postgres-postgis", 
+            "location": "/sesion2/#postgres-postgis", 
             "text": "", 
             "title": "Postgres + PostGIS"
         }, 
         {
-            "location": "/s2/sesion2/#queries-espaciales", 
+            "location": "/sesion2/#queries-espaciales", 
             "text": "", 
             "title": "Queries espaciales"
         }, 
         {
-            "location": "/s3/sesion3/", 
+            "location": "/sesion3/", 
             "text": "Sesi\u00f3n 3\n\n\nBloque 1: Webmaps con Javascript\n\n\nLeaflet\n\n\nCARTO.js\n\n\nCARTOvl\n\n\nMapboxGL\n\n\n\n\nHands on", 
             "title": "Sesi\u00f3n 3"
         }, 
         {
-            "location": "/s3/sesion3/#sesion-3", 
+            "location": "/sesion3/#sesion-3", 
             "text": "", 
             "title": "Sesi\u00f3n 3"
         }, 
         {
-            "location": "/s3/sesion3/#bloque-1-webmaps-con-javascript", 
+            "location": "/sesion3/#bloque-1-webmaps-con-javascript", 
             "text": "", 
             "title": "Bloque 1: Webmaps con Javascript"
         }, 
         {
-            "location": "/s3/sesion3/#leaflet", 
+            "location": "/sesion3/#leaflet", 
             "text": "", 
             "title": "Leaflet"
         }, 
         {
-            "location": "/s3/sesion3/#cartojs", 
+            "location": "/sesion3/#cartojs", 
             "text": "", 
             "title": "CARTO.js"
         }, 
         {
-            "location": "/s3/sesion3/#cartovl", 
+            "location": "/sesion3/#cartovl", 
             "text": "", 
             "title": "CARTOvl"
         }, 
         {
-            "location": "/s3/sesion3/#mapboxgl", 
+            "location": "/sesion3/#mapboxgl", 
             "text": "", 
             "title": "MapboxGL"
         }, 
         {
-            "location": "/s3/sesion3/#hands-on", 
+            "location": "/sesion3/#hands-on", 
             "text": "", 
             "title": "Hands on"
         }, 
         {
-            "location": "/s4/sesion4/", 
+            "location": "/sesion4/", 
             "text": "Sesi\u00f3n 4\n\n\nBloque 1: CARTOframes\n\n\nMapas integrados en Jupyter Notebooks\n\n\nDemos\n\n\n\n\nHands on", 
             "title": "Sesi\u00f3n 4"
         }, 
         {
-            "location": "/s4/sesion4/#sesion-4", 
+            "location": "/sesion4/#sesion-4", 
             "text": "", 
             "title": "Sesi\u00f3n 4"
         }, 
         {
-            "location": "/s4/sesion4/#bloque-1-cartoframes", 
+            "location": "/sesion4/#bloque-1-cartoframes", 
             "text": "", 
             "title": "Bloque 1: CARTOframes"
         }, 
         {
-            "location": "/s4/sesion4/#mapas-integrados-en-jupyter-notebooks", 
+            "location": "/sesion4/#mapas-integrados-en-jupyter-notebooks", 
             "text": "", 
             "title": "Mapas integrados en Jupyter Notebooks"
         }, 
         {
-            "location": "/s4/sesion4/#demos", 
+            "location": "/sesion4/#demos", 
             "text": "", 
             "title": "Demos"
         }, 
         {
-            "location": "/s4/sesion4/#hands-on", 
+            "location": "/sesion4/#hands-on", 
             "text": "", 
             "title": "Hands on"
         }
