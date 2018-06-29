@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Visualizaci\u00f3n geoespacial\n\n\nM\u00e1ster en Data Science \n Big Data U-Tad\n\n\nMadrid, 2018 \n\n\n29-30 Junio / 6-7 Julio\n\n\n\n\nErnesto Mart\u00ednez Becerra\n\n\nGeograf\u00eda / GIS\n\n\nCARTO Solutions team\n\n\nernesto@carto.com\n | \nernesmb@gmail.com\n | \n@ernesmb\n\n\n\n\nRecursos\n\n\n\n\nC\u00f3digo fuente del material\n\n\nConsigue cuenta de estudiante de CARTO\n\n\n\n\n\n\nPrograma\n\n\nSesi\u00f3n 1 - Viernes 29\n\n\nIntroducci\u00f3n\n\n\nCARTO Builder I\n\n\nSesi\u00f3n 2 - S\u00e1bado 30\n\n\nCARTO Builder II\n\n\nBases de Datos Geogr\u00e1ficos\n\n\nSesi\u00f3n 3 - Viernes 6\n\n\nWebmaps con Javascript\n\n\nHands on\n\n\nSesi\u00f3n 4 - S\u00e1bado 7\n\n\nCARTO Frames\n\n\nHands on", 
+            "text": "Visualizaci\u00f3n geoespacial\n\n\nM\u00e1ster en Data Science \n Big Data U-Tad\n\n\nMadrid, 2018 \n\n\n29-30 Junio / 6-7 Julio\n\n\n\n\nernesmb.github.io/clasesvisualizacion\n\n\n\n\nErnesto Mart\u00ednez Becerra\n\n\nGeograf\u00eda / GIS\n\n\nCARTO Solutions team\n\n\nernesto@carto.com\n | \nernesmb@gmail.com\n | \n@ernesmb\n\n\n\n\nRecursos\n\n\n\n\nC\u00f3digo fuente del material\n\n\nCuenta de CARTO\n\n\n\n\n\n\nPrograma\n\n\nSesi\u00f3n 1 - Viernes 29\n\n\nIntroducci\u00f3n\n\n\nCARTO Builder I\n\n\nSesi\u00f3n 2 - S\u00e1bado 30\n\n\nCARTO Builder II\n\n\nBases de Datos Geogr\u00e1ficos\n\n\nSesi\u00f3n 3 - Viernes 6\n\n\nWebmaps con Javascript\n\n\nHands on\n\n\nSesi\u00f3n 4 - S\u00e1bado 7\n\n\nCARTO Frames\n\n\nHands on", 
             "title": "Hello"
         }, 
         {
@@ -16,13 +16,18 @@
             "title": "M\u00e1ster en Data Science &amp; Big Data U-Tad"
         }, 
         {
+            "location": "/#ernesmbgithubioclasesvisualizacion", 
+            "text": "", 
+            "title": "ernesmb.github.io/clasesvisualizacion"
+        }, 
+        {
             "location": "/#ernesto-martinez-becerra", 
             "text": "Geograf\u00eda / GIS  CARTO Solutions team  ernesto@carto.com  |  ernesmb@gmail.com  |  @ernesmb", 
             "title": "Ernesto Mart\u00ednez Becerra"
         }, 
         {
             "location": "/#recursos", 
-            "text": "C\u00f3digo fuente del material  Consigue cuenta de estudiante de CARTO", 
+            "text": "C\u00f3digo fuente del material  Cuenta de CARTO", 
             "title": "Recursos"
         }, 
         {
@@ -92,7 +97,7 @@
         }, 
         {
             "location": "/sesion1/", 
-            "text": "Sesi\u00f3n 1\n\n\nBloque 1: Introducci\u00f3n\n\n\nDatos Geogr\u00e1ficos\n\n\nProyecciones Cartogr\u00e1ficas\n\n\nFuentes de Datos\n\n\nGIS\n\n\nWebmaps\n\n\nLa industria\n\n\nLa comunidad\n\n\n\n\nBloque 2: CARTO Builder I\n\n\nDashboard\n\n\nBUILDER UI", 
+            "text": "Sesi\u00f3n 1\n\n\nBloque 1: \nIntroducci\u00f3n\n\n\n\n\n\n\nGIS\n\n\n\n\n\n\nDatos Geogr\u00e1ficos\n\n\n\n\n\n\nProyecciones Cartogr\u00e1ficas\n\n\n\n\n\n\nWebmaps\n\n\n\n\n\n\nLa industria\n\n\n\n\nESRI\n\n\nHERE\n\n\nTomTom\n\n\nGoogle\n\n\nMapbox\n\n\nOpenStreetMap\n\n\nQGIS\n\n\nTableau, Alteryx, Qlik... \n\n\n\n\nLa comunidad\n\n\n\n\nOSGeo\n\n\nGeoinquietos\n\n\nMaptime\n\n\n\n\n\n\nBloque 2: CARTO Builder I\n\n\nCARTO\n\n\nIntroducci\u00f3n guiada a la interfaz de \nCARTO Builder\n\n\nEjercicios de visualizaci\u00f3n de datos\n\n\n\n\n\u00c1rboles de San Francisco\n: Con este ejercicio realizaremos una visualizaci\u00f3n de datos con \u00e1rboles de la ciudad de San Francisco. Podremos adem\u00e1s filtrar los datos y comprender la distribuci\u00f3n de especies en el espacio y el tiempo.\n\n\nAgregaci\u00f3n de datos espaciales\n: Estudiaremos diferentes maneras de agregar informaci\u00f3n geogr\u00e1fica con CARTO Builder. \n\n\nOtros ejemplos: \nCalzada de gigante\n, \ncl\u00faster SQL\n, \nagregaci\u00f3n por p\u00edxel\n\n\n\n\n\n\nVisualizaci\u00f3n bivariable\n: Visualizaci\u00f3n geogr\u00e1fica de dos variables.\n\n\nVisualizaci\u00f3n multivariable con cartograf\u00eda autom\u00e1tica\n: Usaremos la funci\u00f3n auto-style de BUILDER para realizar una visualizaci\u00f3n interactiva de m\u00faltiples variables. \n\n\nVisualizaci\u00f3n de datos temporales\n: Visualizaremos un track de GPS en un mapa animado. \n\n\n\n\n\n\nFuente: \nCARTO Workshop\n. Made with \n3 by CARTO Support Team.", 
             "title": "Sesi\u00f3n 1"
         }, 
         {
@@ -102,42 +107,17 @@
         }, 
         {
             "location": "/sesion1/#bloque-1-introduccion", 
-            "text": "", 
+            "text": "GIS    Datos Geogr\u00e1ficos    Proyecciones Cartogr\u00e1ficas    Webmaps", 
             "title": "Bloque 1: Introducci\u00f3n"
         }, 
         {
-            "location": "/sesion1/#datos-geograficos", 
-            "text": "", 
-            "title": "Datos Geogr\u00e1ficos"
-        }, 
-        {
-            "location": "/sesion1/#proyecciones-cartograficas", 
-            "text": "", 
-            "title": "Proyecciones Cartogr\u00e1ficas"
-        }, 
-        {
-            "location": "/sesion1/#fuentes-de-datos", 
-            "text": "", 
-            "title": "Fuentes de Datos"
-        }, 
-        {
-            "location": "/sesion1/#gis", 
-            "text": "", 
-            "title": "GIS"
-        }, 
-        {
-            "location": "/sesion1/#webmaps", 
-            "text": "", 
-            "title": "Webmaps"
-        }, 
-        {
             "location": "/sesion1/#la-industria", 
-            "text": "", 
+            "text": "ESRI  HERE  TomTom  Google  Mapbox  OpenStreetMap  QGIS  Tableau, Alteryx, Qlik...", 
             "title": "La industria"
         }, 
         {
             "location": "/sesion1/#la-comunidad", 
-            "text": "", 
+            "text": "OSGeo  Geoinquietos  Maptime", 
             "title": "La comunidad"
         }, 
         {
@@ -146,18 +126,23 @@
             "title": "Bloque 2: CARTO Builder I"
         }, 
         {
-            "location": "/sesion1/#dashboard", 
+            "location": "/sesion1/#carto", 
             "text": "", 
-            "title": "Dashboard"
+            "title": "CARTO"
         }, 
         {
-            "location": "/sesion1/#builder-ui", 
+            "location": "/sesion1/#introduccion-guiada-a-la-interfaz-de-carto-builder", 
             "text": "", 
-            "title": "BUILDER UI"
+            "title": "Introducci\u00f3n guiada a la interfaz de CARTO Builder"
+        }, 
+        {
+            "location": "/sesion1/#ejercicios-de-visualizacion-de-datos", 
+            "text": "\u00c1rboles de San Francisco : Con este ejercicio realizaremos una visualizaci\u00f3n de datos con \u00e1rboles de la ciudad de San Francisco. Podremos adem\u00e1s filtrar los datos y comprender la distribuci\u00f3n de especies en el espacio y el tiempo.  Agregaci\u00f3n de datos espaciales : Estudiaremos diferentes maneras de agregar informaci\u00f3n geogr\u00e1fica con CARTO Builder.   Otros ejemplos:  Calzada de gigante ,  cl\u00faster SQL ,  agregaci\u00f3n por p\u00edxel    Visualizaci\u00f3n bivariable : Visualizaci\u00f3n geogr\u00e1fica de dos variables.  Visualizaci\u00f3n multivariable con cartograf\u00eda autom\u00e1tica : Usaremos la funci\u00f3n auto-style de BUILDER para realizar una visualizaci\u00f3n interactiva de m\u00faltiples variables.   Visualizaci\u00f3n de datos temporales : Visualizaremos un track de GPS en un mapa animado.     Fuente:  CARTO Workshop . Made with  3 by CARTO Support Team.", 
+            "title": "Ejercicios de visualizaci\u00f3n de datos"
         }, 
         {
             "location": "/sesion2/", 
-            "text": "Sesi\u00f3n 2\n\n\nBloque 1: CARTO Builder II: Casos de Uso\n\n\nDemo 1\n\n\nDemo 2\n\n\nDemo 3\n\n\nDemo 4\n\n\n\n\nBloque 2: Bases de Datos Geogr\u00e1ficos\n\n\nPostgres + PostGIS\n\n\nQueries espaciales", 
+            "text": "Sesi\u00f3n 2\n\n\nBloque 1: CARTO Builder II: Casos de Uso\n\n\nExploraremos casos m\u00e1s avanzados de an\u00e1lisis geoespacial con CARTO Builder. Este bloque es una introducci\u00f3n a los conceptos b\u00e1sicos del an\u00e1lisis geoespacial a trav\u00e9s de ejemplos y datos reales. \n\n\nDemo 1: \nAirBnB en Barcelona\n.\n\n\nEstudiaremos la distribuci\u00f3n y concentraci\u00f3n de alquileres en AirBnb por barrios de Barcelona. \n\n\nDemo 2: \nAirBnB en Madrid\n.\n\n\nUn an\u00e1lisis algo m\u00e1s complejo con datos de AirBnB y Metro de Madrid. \n\n\nDemo 3: \nSpies in the Sky\n.\n\n\nUna historia de espionaje a\u00e9reo. \n+info\n\n\nDemo 4: \nTerritorios de ventas\n.\n\n\nIdentificar la localizaci\u00f3n \u00f3ptima de un negocio es uno de los casos de uso m\u00e1s habituales. Lo haremos con datos de Portland. \n\n\nDemo 5: \nEl cierre de la l\u00ednea L\n.\n\n\n\u00bfC\u00f3mo afecta el cierre de una l\u00ednea de metro a la poblaci\u00f3n de NY? \n\n\n\n\nBloque 2: Bases de Datos Geogr\u00e1ficos\n\n\nPostgres + PostGIS\n\n\n\n\nIntro\n\n\n\n\nQueries espaciales\n\n\n\n\nIntroducci\u00f3n a SQL\n\n\nSQL espacial\n\n\nSQL espacial avanzado\n\n\n\n\n\n\nFuente: \nCARTO Workshop\n. Made with \n3 by CARTO Support Team.", 
             "title": "Sesi\u00f3n 2"
         }, 
         {
@@ -167,28 +152,33 @@
         }, 
         {
             "location": "/sesion2/#bloque-1-carto-builder-ii-casos-de-uso", 
-            "text": "", 
+            "text": "Exploraremos casos m\u00e1s avanzados de an\u00e1lisis geoespacial con CARTO Builder. Este bloque es una introducci\u00f3n a los conceptos b\u00e1sicos del an\u00e1lisis geoespacial a trav\u00e9s de ejemplos y datos reales.", 
             "title": "Bloque 1: CARTO Builder II: Casos de Uso"
         }, 
         {
-            "location": "/sesion2/#demo-1", 
-            "text": "", 
-            "title": "Demo 1"
+            "location": "/sesion2/#demo-1-airbnb-en-barcelona", 
+            "text": "Estudiaremos la distribuci\u00f3n y concentraci\u00f3n de alquileres en AirBnb por barrios de Barcelona.", 
+            "title": "Demo 1: AirBnB en Barcelona."
         }, 
         {
-            "location": "/sesion2/#demo-2", 
-            "text": "", 
-            "title": "Demo 2"
+            "location": "/sesion2/#demo-2-airbnb-en-madrid", 
+            "text": "Un an\u00e1lisis algo m\u00e1s complejo con datos de AirBnB y Metro de Madrid.", 
+            "title": "Demo 2: AirBnB en Madrid."
         }, 
         {
-            "location": "/sesion2/#demo-3", 
-            "text": "", 
-            "title": "Demo 3"
+            "location": "/sesion2/#demo-3-spies-in-the-sky", 
+            "text": "Una historia de espionaje a\u00e9reo.  +info", 
+            "title": "Demo 3: Spies in the Sky."
         }, 
         {
-            "location": "/sesion2/#demo-4", 
-            "text": "", 
-            "title": "Demo 4"
+            "location": "/sesion2/#demo-4-territorios-de-ventas", 
+            "text": "Identificar la localizaci\u00f3n \u00f3ptima de un negocio es uno de los casos de uso m\u00e1s habituales. Lo haremos con datos de Portland.", 
+            "title": "Demo 4: Territorios de ventas."
+        }, 
+        {
+            "location": "/sesion2/#demo-5-el-cierre-de-la-linea-l", 
+            "text": "\u00bfC\u00f3mo afecta el cierre de una l\u00ednea de metro a la poblaci\u00f3n de NY?", 
+            "title": "Demo 5: El cierre de la l\u00ednea L."
         }, 
         {
             "location": "/sesion2/#bloque-2-bases-de-datos-geograficos", 
@@ -197,17 +187,17 @@
         }, 
         {
             "location": "/sesion2/#postgres-postgis", 
-            "text": "", 
+            "text": "Intro", 
             "title": "Postgres + PostGIS"
         }, 
         {
             "location": "/sesion2/#queries-espaciales", 
-            "text": "", 
+            "text": "Introducci\u00f3n a SQL  SQL espacial  SQL espacial avanzado    Fuente:  CARTO Workshop . Made with  3 by CARTO Support Team.", 
             "title": "Queries espaciales"
         }, 
         {
             "location": "/sesion3/", 
-            "text": "Sesi\u00f3n 3\n\n\nBloque 1: Webmaps con Javascript\n\n\nLeaflet\n\n\nCARTO.js\n\n\nCARTOvl\n\n\nMapboxGL\n\n\n\n\nHands on", 
+            "text": "Sesi\u00f3n 3\n\n\nBloque 1: Webmaps con Javascript\n\n\nLeafletJS\n\n\nIntroducci\u00f3n a los mapas web con LeafletJS, la librer\u00eda Open Source m\u00e1s extendida. \n\n\nCARTO.js\n\n\nIntroducci\u00f3n a CARTO.js, la librer\u00eda Javascript para integrar datos de CARTO en mapas web. \n\n\nEjemplos Hackarto.js\n\n\nCARTOvl\n\n\nIntroducci\u00f3n y ejemplos de CARTO.vl. La librer\u00eda Javascript de CARTO para visualizaci\u00f3n de teselas vectoriales.\n\n\nMapboxGL\n\n\nUn taller para comprender los fundamentos de las teselas vectoriales. \n\n\n\n\nHands on", 
             "title": "Sesi\u00f3n 3"
         }, 
         {
@@ -221,23 +211,28 @@
             "title": "Bloque 1: Webmaps con Javascript"
         }, 
         {
-            "location": "/sesion3/#leaflet", 
-            "text": "", 
-            "title": "Leaflet"
+            "location": "/sesion3/#leafletjs", 
+            "text": "Introducci\u00f3n a los mapas web con LeafletJS, la librer\u00eda Open Source m\u00e1s extendida.", 
+            "title": "LeafletJS"
         }, 
         {
             "location": "/sesion3/#cartojs", 
-            "text": "", 
+            "text": "Introducci\u00f3n a CARTO.js, la librer\u00eda Javascript para integrar datos de CARTO en mapas web.", 
             "title": "CARTO.js"
         }, 
         {
-            "location": "/sesion3/#cartovl", 
+            "location": "/sesion3/#ejemplos-hackartojs", 
             "text": "", 
+            "title": "Ejemplos Hackarto.js"
+        }, 
+        {
+            "location": "/sesion3/#cartovl", 
+            "text": "Introducci\u00f3n y ejemplos de CARTO.vl. La librer\u00eda Javascript de CARTO para visualizaci\u00f3n de teselas vectoriales.", 
             "title": "CARTOvl"
         }, 
         {
             "location": "/sesion3/#mapboxgl", 
-            "text": "", 
+            "text": "Un taller para comprender los fundamentos de las teselas vectoriales.", 
             "title": "MapboxGL"
         }, 
         {
