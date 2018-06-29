@@ -7,6 +7,10 @@ Madrid, 2018
 
 ---
 
+## [ernesmb.github.io/clasesvisualizacion](https://ernesmb.github.io/clasesvisualizacion)
+
+---
+
 ### Ernesto Martínez Becerra
 Geografía / GIS
 
@@ -19,7 +23,7 @@ CARTO Solutions team
 ## Recursos
 
 * [Código fuente del material](https://github.com/ernesmb/clasesvisualizacion)
-* Consigue cuenta de estudiante de CARTO
+* [Cuenta de CARTO](https://carto.com/signup)
 
 ---
 
