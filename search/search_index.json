@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Visualizaci\u00f3n geoespacial\n\n\nM\u00e1ster en Data Science \n Big Data U-Tad\n\n\nMadrid, 2018 \n\n\n29-30 Junio / 6-7 Julio\n\n\n\n\nernesmb.github.io/clasesvisualizacion\n\n\n\n\nErnesto Mart\u00ednez Becerra\n\n\nGeograf\u00eda / GIS\n\n\nCARTO Solutions team\n\n\nernesto@carto.com\n | \nernesmb@gmail.com\n | \n@ernesmb\n\n\n\n\nRecursos\n\n\n\n\nC\u00f3digo fuente del material\n\n\nCuenta de CARTO\n\n\n\n\n\n\nPrograma\n\n\nSesi\u00f3n 1 - Viernes 29\n\n\nIntroducci\u00f3n\n\n\nCARTO Builder I\n\n\nSesi\u00f3n 2 - S\u00e1bado 30\n\n\nCARTO Builder II\n\n\nBases de Datos Geogr\u00e1ficos\n\n\nSesi\u00f3n 3 - Viernes 6\n\n\nWebmaps con Javascript\n\n\nHands on\n\n\nSesi\u00f3n 4 - S\u00e1bado 7\n\n\nCARTO Frames\n\n\nHands on", 
+            "text": "Visualizaci\u00f3n geoespacial\n\n\nM\u00e1ster en Data Science \n Big Data U-Tad\n\n\nMadrid, 2018 \n\n\n29-30 Junio / 6-7 Julio\n\n\n\n\nernesmb.github.io/clasesvisualizacion\n\n\n\n\nErnesto Mart\u00ednez Becerra\n\n\nGeograf\u00eda / GIS\n\n\nCARTO Solutions team\n\n\nernesto@carto.com\n | \nernesmb@gmail.com\n | \n@ernesmb\n\n\n\n\nRecursos\n\n\n\n\nC\u00f3digo fuente del material\n\n\nCuenta de CARTO\n\n\nVisor queries espaciales\n\n\n\n\n\n\nPrograma\n\n\nSesi\u00f3n 1 - Viernes 29\n\n\nIntroducci\u00f3n\n\n\nCARTO Builder I\n\n\nSesi\u00f3n 2 - S\u00e1bado 30\n\n\nCARTO Builder II\n\n\nBases de Datos Geogr\u00e1ficos\n\n\nSesi\u00f3n 3 - Viernes 6\n\n\nWebmaps con Javascript\n\n\nHands on\n\n\nSesi\u00f3n 4 - S\u00e1bado 7\n\n\nCARTO Frames\n\n\nHands on", 
             "title": "Hello"
         }, 
         {
@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/#recursos", 
-            "text": "C\u00f3digo fuente del material  Cuenta de CARTO", 
+            "text": "C\u00f3digo fuente del material  Cuenta de CARTO  Visor queries espaciales", 
             "title": "Recursos"
         }, 
         {
@@ -97,7 +97,7 @@
         }, 
         {
             "location": "/sesion1/", 
-            "text": "Sesi\u00f3n 1\n\n\nBloque 1: \nIntroducci\u00f3n\n\n\n\n\n\n\nGIS\n\n\n\n\n\n\nDatos Geogr\u00e1ficos\n\n\n\n\n\n\nProyecciones Cartogr\u00e1ficas\n\n\n\n\n\n\nWebmaps\n\n\n\n\n\n\nLa industria\n\n\n\n\nESRI\n\n\nHERE\n\n\nTomTom\n\n\nGoogle\n\n\nMapbox\n\n\nOpenStreetMap\n\n\nQGIS\n\n\nTableau, Alteryx, Qlik... \n\n\n\n\nLa comunidad\n\n\n\n\nOSGeo\n\n\nGeoinquietos\n\n\nMaptime\n\n\n\n\n\n\nBloque 2: CARTO Builder I\n\n\nCARTO\n\n\nIntroducci\u00f3n guiada a la interfaz de \nCARTO Builder\n\n\nEjercicios de visualizaci\u00f3n de datos\n\n\n\n\n\u00c1rboles de San Francisco\n: Con este ejercicio realizaremos una visualizaci\u00f3n de datos con \u00e1rboles de la ciudad de San Francisco. Podremos adem\u00e1s filtrar los datos y comprender la distribuci\u00f3n de especies en el espacio y el tiempo.\n\n\nAgregaci\u00f3n de datos espaciales\n: Estudiaremos diferentes maneras de agregar informaci\u00f3n geogr\u00e1fica con CARTO Builder. \n\n\nOtros ejemplos: \nCalzada de gigante\n, \ncl\u00faster SQL\n, \nagregaci\u00f3n por p\u00edxel\n\n\n\n\n\n\nVisualizaci\u00f3n bivariable\n: Visualizaci\u00f3n geogr\u00e1fica de dos variables.\n\n\nVisualizaci\u00f3n multivariable con cartograf\u00eda autom\u00e1tica\n: Usaremos la funci\u00f3n auto-style de BUILDER para realizar una visualizaci\u00f3n interactiva de m\u00faltiples variables. \n\n\nVisualizaci\u00f3n de datos temporales\n: Visualizaremos un track de GPS en un mapa animado. \n\n\n\n\n\n\nFuente: \nCARTO Workshop\n. Made with \n3 by CARTO Support Team.", 
+            "text": "Sesi\u00f3n 1\n\n\nBloque 1: \nIntroducci\u00f3n\n\n\n\n\n\n\nGIS\n\n\n\n\n\n\nDatos Geogr\u00e1ficos\n\n\n\n\n\n\nProyecciones Cartogr\u00e1ficas\n\n\n\n\n\n\nWebmaps\n\n\n\n\n\n\nLa industria\n\n\n\n\nESRI\n\n\nHERE\n\n\nTomTom\n\n\nGoogle\n\n\nMapbox\n\n\nOpenStreetMap\n\n\nQGIS\n\n\nTableau, Alteryx, Qlik... \n\n\n\n\nLa comunidad\n\n\n\n\nOSGeo\n\n\nFOSS4G\n \n\"Free and Open Source Software for Geo\"\n \n\n\nGeoinquietos\n\n\nGeocamp\n - \nMeetup Madrid\n\n\nMaptime\n\n\n\n\n\n\nBloque 2: CARTO Builder I\n\n\nCARTO\n\n\nIntroducci\u00f3n guiada a la interfaz de \nCARTO Builder\n\n\nEjercicios de visualizaci\u00f3n de datos\n\n\n\n\n\u00c1rboles de San Francisco\n: Con este ejercicio realizaremos una visualizaci\u00f3n de datos con \u00e1rboles de la ciudad de San Francisco. Podremos adem\u00e1s filtrar los datos y comprender la distribuci\u00f3n de especies en el espacio y el tiempo.\n\n\nAgregaci\u00f3n de datos espaciales\n: Estudiaremos diferentes maneras de agregar informaci\u00f3n geogr\u00e1fica con CARTO Builder. \n\n\nOtros ejemplos: \nCalzada de gigante\n, \ncl\u00faster SQL\n, \nagregaci\u00f3n por p\u00edxel\n\n\n\n\n\n\nVisualizaci\u00f3n bivariable\n: Visualizaci\u00f3n geogr\u00e1fica de dos variables.\n\n\nVisualizaci\u00f3n multivariable con cartograf\u00eda autom\u00e1tica\n: Usaremos la funci\u00f3n auto-style de BUILDER para realizar una visualizaci\u00f3n interactiva de m\u00faltiples variables. \n\n\nVisualizaci\u00f3n de datos temporales\n: Visualizaremos un track de GPS en un mapa animado. \n\n\n\n\n\n\nFuente: \nCARTO Workshop\n. Made with \n3 by CARTO Support Team.", 
             "title": "Sesi\u00f3n 1"
         }, 
         {
@@ -117,7 +117,7 @@
         }, 
         {
             "location": "/sesion1/#la-comunidad", 
-            "text": "OSGeo  Geoinquietos  Maptime", 
+            "text": "OSGeo  FOSS4G   \"Free and Open Source Software for Geo\"    Geoinquietos  Geocamp  -  Meetup Madrid  Maptime", 
             "title": "La comunidad"
         }, 
         {
