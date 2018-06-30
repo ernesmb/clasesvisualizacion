@@ -24,7 +24,9 @@
 ### La comunidad
 
 * [OSGeo](https://www.osgeo.org/)
+  * [FOSS4G](http://foss4g.org/) _"Free and Open Source Software for Geo"_ 
 * [Geoinquietos](http://geoinquietos.org/)
+  * [Geocamp](http://2018.geocamp.es/) - [Meetup Madrid](https://www.meetup.com/es-ES/Geoinquietos-MAD/?_cookie-check=-k9wC1Vd2oWyeMq5)
 * [Maptime](http://maptime.io/)
 
 ---

@@ -24,6 +24,7 @@ CARTO Solutions team
 
 * [Código fuente del material](https://github.com/ernesmb/clasesvisualizacion)
 * [Cuenta de CARTO](https://carto.com/signup)
+* [Visor queries espaciales](http://bl.ocks.org/jsanz/raw/fcb8394e084919a4135188b7c30504ad/)
 
 ---
 
