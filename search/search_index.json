@@ -147,7 +147,7 @@
         }, 
         {
             "location": "/sesion2/", 
-            "text": "Sesi\u00f3n 2\n\n\nBloque 1: CARTO Builder II: Casos de Uso\n\n\nExploraremos casos m\u00e1s avanzados de an\u00e1lisis geoespacial con CARTO Builder. Este bloque es una introducci\u00f3n a los conceptos b\u00e1sicos del an\u00e1lisis geoespacial a trav\u00e9s de ejemplos y datos reales. \n\n\nDemo 1: \nAirBnB en Barcelona\n.\n\n\nEstudiaremos la distribuci\u00f3n y concentraci\u00f3n de alquileres en AirBnb por barrios de Barcelona. \n\n\nDemo 2: \nAirBnB en Madrid\n.\n\n\nUn an\u00e1lisis algo m\u00e1s complejo con datos de AirBnB y Metro de Madrid. \n\n\nDemo 3: \nSpies in the Sky\n.\n\n\nUna historia de espionaje a\u00e9reo. \n+info\n\n\nDemo 4: \nTerritorios de ventas\n.\n\n\nIdentificar la localizaci\u00f3n \u00f3ptima de un negocio es uno de los casos de uso m\u00e1s habituales. Lo haremos con datos de Portland. \n\n\nDemo 5: \nEl cierre de la l\u00ednea L\n.\n\n\n\u00bfC\u00f3mo afecta el cierre de una l\u00ednea de metro a la poblaci\u00f3n de NY? \n\n\n\n\nBloque 2: Bases de Datos Geogr\u00e1ficos\n\n\nPostgres + PostGIS\n\n\n\n\nIntro\n\n\n\n\nQueries espaciales\n\n\n\n\nIntroducci\u00f3n a SQL\n\n\nSQL espacial\n\n\nSQL espacial avanzado\n\n\n\n\nRecursos\n\n\n\n\nVisor queries espaciales\n\n\n\n\n\n\nFuente: \nCARTO Workshop\n. Made with \n3 by CARTO Support Team.", 
+            "text": "Sesi\u00f3n 2\n\n\nBloque 1: CARTO Builder II: Casos de Uso\n\n\nExploraremos casos m\u00e1s avanzados de an\u00e1lisis geoespacial con CARTO Builder. Este bloque es una introducci\u00f3n a los conceptos b\u00e1sicos del an\u00e1lisis geoespacial a trav\u00e9s de ejemplos y datos reales. \n\n\nDemo 1: \nAirBnB en Barcelona\n.\n\n\nEstudiaremos la distribuci\u00f3n y concentraci\u00f3n de alquileres en AirBnb por barrios de Barcelona. \n\n\nDemo 2: \nAirBnB en Madrid\n.\n\n\nUn an\u00e1lisis algo m\u00e1s complejo con datos de AirBnB y Metro de Madrid. \n\n\nDemo 3: \nSpies in the Sky\n.\n\n\nUna historia de espionaje a\u00e9reo. \n+info\n\n\nDemo 4: \nTerritorios de ventas\n.\n\n\nIdentificar la localizaci\u00f3n \u00f3ptima de un negocio es uno de los casos de uso m\u00e1s habituales. Lo haremos con datos de Portland. \n\n\nDemo 5: \nEl cierre de la l\u00ednea L\n.\n\n\n\u00bfC\u00f3mo afecta el cierre de una l\u00ednea de metro a la poblaci\u00f3n de NY? \n\n\n\n\nBloque 2: Bases de Datos Geogr\u00e1ficos\n\n\nPostgres + PostGIS\n\n\n\n\nIntro\n\n\n\n\nQueries espaciales\n\n\n\n\nIntroducci\u00f3n a SQL\n\n\nSQL espacial\n\n\nSQL espacial avanzado\n\n\n\n\nRecursos\n\n\n\n\nVisor queries espaciales\n\n\nOtros ejemplos avanzados: \n\n\nCalzada de gigante\n\n\nCl\u00faster SQL\n \n\n\nAgregaci\u00f3n por p\u00edxel\n\n\n\n\n\n\n\n\n\n\nFuente: \nCARTO Workshop\n. Made with \n3 by CARTO Support Team.", 
             "title": "Sesi\u00f3n 2"
         }, 
         {
@@ -202,7 +202,7 @@
         }, 
         {
             "location": "/sesion2/#recursos", 
-            "text": "Visor queries espaciales    Fuente:  CARTO Workshop . Made with  3 by CARTO Support Team.", 
+            "text": "Visor queries espaciales  Otros ejemplos avanzados:   Calzada de gigante  Cl\u00faster SQL    Agregaci\u00f3n por p\u00edxel      Fuente:  CARTO Workshop . Made with  3 by CARTO Support Team.", 
             "title": "Recursos"
         }, 
         {
