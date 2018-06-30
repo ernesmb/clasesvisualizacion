@@ -24,9 +24,9 @@
 ### La comunidad
 
 * [OSGeo](https://www.osgeo.org/)
-  * [FOSS4G](http://foss4g.org/) _"Free and Open Source Software for Geo"_ 
+    * [FOSS4G](http://foss4g.org/) _"Free and Open Source Software for Geo"_ 
 * [Geoinquietos](http://geoinquietos.org/)
-  * [Geocamp](http://2018.geocamp.es/) - [Meetup Madrid](https://www.meetup.com/es-ES/Geoinquietos-MAD/?_cookie-check=-k9wC1Vd2oWyeMq5)
+    * [Geocamp](http://2018.geocamp.es/) - [Meetup Madrid](https://www.meetup.com/es-ES/Geoinquietos-MAD/?_cookie-check=-k9wC1Vd2oWyeMq5)
 * [Maptime](http://maptime.io/)
 
 ---
@@ -45,6 +45,11 @@
 * [Visualización bivariable](https://github.com/CartoDB/carto-workshop/blob/master/01-builder-visualization/exercises/category-bubble.md): Visualización geográfica de dos variables.
 * [Visualización multivariable con cartografía automática](https://github.com/CartoDB/carto-workshop/blob/master/01-builder-visualization/exercises/autostyle.md): Usaremos la función auto-style de BUILDER para realizar una visualización interactiva de múltiples variables. 
 * [Visualización de datos temporales](https://github.com/CartoDB/carto-workshop/blob/master/01-builder-visualization/exercises/torque.md): Visualizaremos un track de GPS en un mapa animado. 
+
+
+### Recursos
+
+* [Introducción a CartoCSS](https://github.com/CartoDB/carto-workshop/blob/master/03-cartography/resources/cartocss.md)
 
 ---
 

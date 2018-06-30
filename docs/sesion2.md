@@ -33,6 +33,14 @@ Identificar la localización óptima de un negocio es uno de los casos de uso m�
 * [SQL espacial](https://github.com/GeoinquietosMadrid/intro-spatial-db/blob/master/exercises/carto.md)
 * [SQL espacial avanzado](https://github.com/CartoDB/carto-workshop/blob/master/04-database/exercises/sql-advanced.md)
 
+### Recursos
+
+* [Visor queries espaciales](http://bl.ocks.org/jsanz/raw/fcb8394e084919a4135188b7c30504ad/)
+* Otros ejemplos avanzados: 
+	* [Calzada de gigante](https://bl.ocks.org/ernesmb/4a6f00d6d795a20406516bce3fbe8092)
+	* [Clúster SQL](http://bl.ocks.org/ernesmb/348b9eed9ee4c7038fd7) 
+	* [Agregación por píxel](http://bl.ocks.org/ernesmb/6b6ed27230c22c8c58bcc18c713ac024)
+
 --- 
 
 _Fuente: [CARTO Workshop](https://github.com/CartoDB/carto-workshop/). Made with <3 by CARTO Support Team._
