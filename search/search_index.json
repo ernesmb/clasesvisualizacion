@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Visualizaci\u00f3n geoespacial\n\n\nM\u00e1ster en Data Science \n Big Data U-Tad\n\n\nMadrid, 2018 \n\n\n29-30 Junio / 6-7 Julio\n\n\n\n\nernesmb.github.io/clasesvisualizacion\n\n\n\n\nErnesto Mart\u00ednez Becerra\n\n\nGeograf\u00eda / GIS\n\n\nCARTO Solutions team\n\n\nernesto@carto.com\n | \nernesmb@gmail.com\n | \n@ernesmb\n\n\n\n\nRecursos\n\n\n\n\nC\u00f3digo fuente del material\n\n\nCuenta de CARTO\n\n\nCARTO Builder Guides\n\n\nVisor queries espaciales\n\n\n\n\n\n\nPrograma\n\n\nSesi\u00f3n 1 - Viernes 29\n\n\nIntroducci\u00f3n\n\n\nCARTO Builder I\n\n\nSesi\u00f3n 2 - S\u00e1bado 30\n\n\nCARTO Builder II\n\n\nBases de Datos Geogr\u00e1ficos\n\n\nSesi\u00f3n 3 - Viernes 6\n\n\nWebmaps con Javascript\n\n\nHands on\n\n\nSesi\u00f3n 4 - S\u00e1bado 7\n\n\nCARTO Frames\n\n\nHands on", 
+            "text": "Visualizaci\u00f3n geoespacial\n\n\nM\u00e1ster en Data Science \n Big Data U-Tad\n\n\nMadrid, 2018 \n\n\n29-30 Junio / 6-7 Julio\n\n\n\n\nernesmb.github.io/clasesvisualizacion\n\n\n\n\nErnesto Mart\u00ednez Becerra\n\n\nGeograf\u00eda / GIS\n\n\nCARTO Solutions team\n\n\nernesto@carto.com\n | \nernesmb@gmail.com\n | \n@ernesmb\n\n\n\n\nRecursos\n\n\n\n\nC\u00f3digo fuente del material\n\n\nCuenta de CARTO\n\n\nCARTO Builder Guides\n\n\nVisor queries espaciales\n\n\nMaterial CARTO workshop\n\n\nGitHub Gists\n\n\nbl.ocks.org\n\n\nGoogle CoLaboratory\n\n\n\n\n\n\nBibliograf\u00eda\n\n\n\n\nEvaluaci\u00f3n\n\n\nEntrega de \nun ejercicio pr\u00e1ctico\n. Opciones:\n\n\n\n\nVisualizaci\u00f3n de datos interactiva con CARTO Builder:\n \n    Entregar enlace a un dashboard hecho con CARTO Builder. Se valorar\u00e1 la originalidad, correcci\u00f3n t\u00e9cnica, relevancia de los datos, interactividad y aspectos cartogr\u00e1ficos. \n    Adem\u00e1s del enlace, una descripci\u00f3n breve de los datos utilizados y explicaci\u00f3n de la visualizaci\u00f3n.\n\n\nAn\u00e1lisis geoespacial con CARTO Builder:\n\n    Entregar enlace a un dashboard hecho con CARTO Builder. Se valorar\u00e1 el proceso de an\u00e1lisis, correcci\u00f3n t\u00e9cnica y presentaci\u00f3n de los resultados. Se debe incluir una descripci\u00f3n breve del caso de uso: datos de origen, flujo de an\u00e1lisis, exploraci\u00f3n de los datos y resultados.\n\n\nWebmap:\n\n    Entregar enlace a un mapa web, desarrollado con LeafletJS o CARTO.js. Se valorar\u00e1 la correcci\u00f3n t\u00e9cnica, interactividad e integraci\u00f3n con otras librer\u00edas. Se debe incluir una explicaci\u00f3n breve de los puntos m\u00e1s destacables, en un documento adicional o en comentarios en el c\u00f3digo. \n\n\nAn\u00e1lisis de datos con CARTO Frames:\n\n    Entregar notebook con un proceso de an\u00e1lisis de datos y presentaci\u00f3n de resultados utilizando CARTO Frames. Se valorar\u00e1 el proceso de an\u00e1lisis y la explicaci\u00f3n. \n\n\n\n\n\n\nPrograma\n\n\nSesi\u00f3n 1 - Viernes 29\n\n\nIntroducci\u00f3n\n\n\nCARTO Builder I\n\n\nSesi\u00f3n 2 - S\u00e1bado 30\n\n\nCARTO Builder II\n\n\nBases de Datos Geogr\u00e1ficos\n\n\nSesi\u00f3n 3 - Viernes 6\n\n\nWebmaps con Javascript\n\n\nHands on\n\n\nSesi\u00f3n 4 - S\u00e1bado 7\n\n\nCARTO Frames\n\n\nHands on", 
             "title": "Hello"
         }, 
         {
@@ -27,8 +27,18 @@
         }, 
         {
             "location": "/#recursos", 
-            "text": "C\u00f3digo fuente del material  Cuenta de CARTO  CARTO Builder Guides  Visor queries espaciales", 
+            "text": "C\u00f3digo fuente del material  Cuenta de CARTO  CARTO Builder Guides  Visor queries espaciales  Material CARTO workshop  GitHub Gists  bl.ocks.org  Google CoLaboratory", 
             "title": "Recursos"
+        }, 
+        {
+            "location": "/#bibliografia", 
+            "text": "", 
+            "title": "Bibliograf\u00eda"
+        }, 
+        {
+            "location": "/#evaluacion", 
+            "text": "Entrega de  un ejercicio pr\u00e1ctico . Opciones:   Visualizaci\u00f3n de datos interactiva con CARTO Builder:  \n    Entregar enlace a un dashboard hecho con CARTO Builder. Se valorar\u00e1 la originalidad, correcci\u00f3n t\u00e9cnica, relevancia de los datos, interactividad y aspectos cartogr\u00e1ficos. \n    Adem\u00e1s del enlace, una descripci\u00f3n breve de los datos utilizados y explicaci\u00f3n de la visualizaci\u00f3n.  An\u00e1lisis geoespacial con CARTO Builder: \n    Entregar enlace a un dashboard hecho con CARTO Builder. Se valorar\u00e1 el proceso de an\u00e1lisis, correcci\u00f3n t\u00e9cnica y presentaci\u00f3n de los resultados. Se debe incluir una descripci\u00f3n breve del caso de uso: datos de origen, flujo de an\u00e1lisis, exploraci\u00f3n de los datos y resultados.  Webmap: \n    Entregar enlace a un mapa web, desarrollado con LeafletJS o CARTO.js. Se valorar\u00e1 la correcci\u00f3n t\u00e9cnica, interactividad e integraci\u00f3n con otras librer\u00edas. Se debe incluir una explicaci\u00f3n breve de los puntos m\u00e1s destacables, en un documento adicional o en comentarios en el c\u00f3digo.   An\u00e1lisis de datos con CARTO Frames: \n    Entregar notebook con un proceso de an\u00e1lisis de datos y presentaci\u00f3n de resultados utilizando CARTO Frames. Se valorar\u00e1 el proceso de an\u00e1lisis y la explicaci\u00f3n.", 
+            "title": "Evaluaci\u00f3n"
         }, 
         {
             "location": "/#programa", 
@@ -207,7 +217,7 @@
         }, 
         {
             "location": "/sesion3/", 
-            "text": "Sesi\u00f3n 3\n\n\nBloque 1: Webmaps con Javascript\n\n\nLeafletJS\n\n\nIntroducci\u00f3n a los mapas web con LeafletJS, la librer\u00eda Open Source m\u00e1s extendida. \n\n\nCARTO.js\n\n\nIntroducci\u00f3n a CARTO.js, la librer\u00eda Javascript para integrar datos de CARTO en mapas web. \n\n\nEjemplos Hackarto.js\n\n\nCARTOvl\n\n\nIntroducci\u00f3n y ejemplos de CARTO.vl. La librer\u00eda Javascript de CARTO para visualizaci\u00f3n de teselas vectoriales.\n\n\nMapboxGL\n\n\nUn taller para comprender los fundamentos de las teselas vectoriales. \n\n\n\n\nHands on", 
+            "text": "Sesi\u00f3n 3\n\n\nBloque 1: Webmaps con Javascript\n\n\nLeafletJS\n\n\nIntroducci\u00f3n a los mapas web con LeafletJS, la librer\u00eda Open Source m\u00e1s extendida. \n\n\nCARTO.js\n\n\nIntroducci\u00f3n a CARTO.js, la librer\u00eda Javascript para integrar datos de CARTO en mapas web. \n\n\nEjemplos Hackarto.js\n\n\nCARTO VL\n\n\nIntroducci\u00f3n y ejemplos de CARTO VL. La librer\u00eda Javascript de CARTO para visualizaci\u00f3n de teselas vectoriales.\n\n\nMapboxGL\n\n\nUn taller para comprender los fundamentos de las teselas vectoriales. \n\n\n\n\nHands on\n\n\n\n\nFuente: \nCARTO Workshop\n. Made with \n3 by CARTO Support Team.", 
             "title": "Sesi\u00f3n 3"
         }, 
         {
@@ -236,9 +246,9 @@
             "title": "Ejemplos Hackarto.js"
         }, 
         {
-            "location": "/sesion3/#cartovl", 
-            "text": "Introducci\u00f3n y ejemplos de CARTO.vl. La librer\u00eda Javascript de CARTO para visualizaci\u00f3n de teselas vectoriales.", 
-            "title": "CARTOvl"
+            "location": "/sesion3/#carto-vl", 
+            "text": "Introducci\u00f3n y ejemplos de CARTO VL. La librer\u00eda Javascript de CARTO para visualizaci\u00f3n de teselas vectoriales.", 
+            "title": "CARTO VL"
         }, 
         {
             "location": "/sesion3/#mapboxgl", 
@@ -247,12 +257,12 @@
         }, 
         {
             "location": "/sesion3/#hands-on", 
-            "text": "", 
+            "text": "Fuente:  CARTO Workshop . Made with  3 by CARTO Support Team.", 
             "title": "Hands on"
         }, 
         {
             "location": "/sesion4/", 
-            "text": "Sesi\u00f3n 4\n\n\nBloque 1: CARTOframes\n\n\nMapas integrados en Jupyter Notebooks\n\n\nDemos\n\n\n\n\nHands on", 
+            "text": "Sesi\u00f3n 4\n\n\nBloque 1: CARTOframes\n\n\n\n\nMapas integrados en Jupyter Notebooks\n\n\nOtros ejemplos\n\n\n\n\n\n\nHands on", 
             "title": "Sesi\u00f3n 4"
         }, 
         {
@@ -262,18 +272,8 @@
         }, 
         {
             "location": "/sesion4/#bloque-1-cartoframes", 
-            "text": "", 
+            "text": "Mapas integrados en Jupyter Notebooks  Otros ejemplos", 
             "title": "Bloque 1: CARTOframes"
-        }, 
-        {
-            "location": "/sesion4/#mapas-integrados-en-jupyter-notebooks", 
-            "text": "", 
-            "title": "Mapas integrados en Jupyter Notebooks"
-        }, 
-        {
-            "location": "/sesion4/#demos", 
-            "text": "", 
-            "title": "Demos"
         }, 
         {
             "location": "/sesion4/#hands-on", 
